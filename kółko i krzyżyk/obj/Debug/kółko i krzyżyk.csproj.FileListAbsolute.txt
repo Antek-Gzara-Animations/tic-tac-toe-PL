@@ -1,0 +1,30 @@
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.exe.config
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.exe
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.pdb
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csprojAssemblyReference.cache
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko_i_krzyżyk.Form1.resources
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko_i_krzyżyk.Properties.Resources.resources
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.GenerateResource.cache
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.exe
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.pdb
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko_i_krzyżyk.game.resources
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.exe.manifest
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.application
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.exe.manifest
+C:\Users\antek\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.application
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.exe.config
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.exe.manifest
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.application
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.exe
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\bin\Debug\kółko i krzyżyk.pdb
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.AssemblyReference.cache
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko_i_krzyżyk.Form1.resources
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko_i_krzyżyk.game.resources
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko_i_krzyżyk.Properties.Resources.resources
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.GenerateResource.cache
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.csproj.CoreCompileInputs.cache
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.exe.manifest
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.application
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.exe
+C:\Users\Activcom\source\repos\kółko i krzyżyk\kółko i krzyżyk\obj\Debug\kółko i krzyżyk.pdb
